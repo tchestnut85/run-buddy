@@ -1,5 +1,14 @@
 # Run Buddy
 
-The is the website for **Run Buddy**.
+## Purpose
+A website that offers fitness training services.
 
-This was created for Module 1 of University of Pennsylvania LPS Full Stack Coding Bootcamp.
+## Built With
+* HTML
+* CSS
+
+## Website
+https://tchestnut85.github.io/run-buddy
+
+## Contribution
+Made with ❤️ by Tom Chestnut.
