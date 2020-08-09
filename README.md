@@ -11,6 +11,6 @@ A website that offers fitness training services.
 https://tchestnut85.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Tom Chestnut
 
 ### ©️2019 Run Buddy, Inc
