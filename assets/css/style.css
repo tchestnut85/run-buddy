@@ -5,12 +5,11 @@
 }
 
 body {
-    /* more on this crazy alphanumerical value in a minute! */
     color: #39a6b2;
     font-family: Helvetica, Arial, sans-serif;
 }
 
-/* apply styles to <header> */
+/* header styles start */
 header {
     padding: 20px 35px;
     background-color: #39a6b2;
@@ -143,31 +142,28 @@ section {
 /* Hero Style End */
 
 /* What We Do Section Start */
-.intro {
-    text-align: center;
-}
-
 .intro p {
     margin: 0 auto;
     line-height: 1.7;
     color: #39a6b2;
     width: 80%;
     font-size:20px;
+    text-align: center;
 }
 
 .steps {
-    text-align: center;
     background: #fce138;
 }
 
 .section-title {
     font-size: 55px;
     color: #024e76;
-    margin-bottom: 35px;
-    padding: 0 100px 20px 100px;
-    display: inline-block;
     border-bottom: 3px solid;
     border-color: #fce138; 
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 0 auto 35px auto;
+    width: 50%;
 }
 
 .primary-border {
@@ -204,7 +200,6 @@ section {
 }
 
 .trainers {
-    text-align: center;
     overflow: auto;
 }
 
@@ -253,18 +248,8 @@ section {
     line-height: 1.3;
 }
 
-.section-title {
-    font-size: 55px;
-    display: inline-block;
-    padding: 0 100px 20px 100px;
-    border-bottom: 3px solid;
-    margin-bottom: 35px;
-    color: #024e76;
-}
-
 /* Reach Out styles start */
 .contact {
-    text-align: center;
     background: #024e76;
 }
 
@@ -302,5 +287,9 @@ section {
 .contact-info a {
     color: #fce138;
 }
-
 /* Reach Out styles end */
+
+/* utitility styles start */
+.flex-row {
+    display: flex;
+}
