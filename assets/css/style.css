@@ -248,14 +248,6 @@ section {
     overflow: auto;
 }
 
-.text-left {
-    text-align: left;
-}
-
-.text-right {
-    text-align: right;
-}
-
 .trainer-bio {
     font-size: 32px;
     margin-bottom: 8px;
@@ -343,7 +335,6 @@ section {
 }
 /* Reach Out styles end */
 
-/* utitility styles start */
 .flex-row {
     display: flex;
 }
