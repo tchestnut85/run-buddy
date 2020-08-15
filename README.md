@@ -13,4 +13,4 @@ https://tchestnut85.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Tom Chestnut
 
-### ©️2019 Run Buddy, Inc 
+### ©️2019 Run Buddy, Inc
