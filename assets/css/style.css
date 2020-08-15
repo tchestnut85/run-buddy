@@ -343,9 +343,56 @@ section {
     color: var(--primary-color);
 }
 
-.trainer img {
+.trainer-img {
     width: 100%;
-    overflow: auto;
+    min-height: 300px;
+    background-size: cover;
+    display: flex;
+    padding: 15px;
+    align-items: flex-end;
+    position: relative;
+}
+
+.trainer-img::after {
+    content: "";
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(rgba(252, 225, 56, 0.3), 50%);
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.trainer:hover .trainer-img::after {
+    opacity: 1;
+}
+
+
+.trainer-img h3 {
+    position: relative;
+    z-index: 10;
+    font-size: 28px;
+    margin-bottom: 5px;
+}
+
+.trainger-img h4 {
+    position: relative;
+    z-index: 10;
+    font-size: 22px;
+}
+
+.trainer-1 {
+    background-image: url("../images/01-05-trainers/trainer-1.jpg");
+}
+
+.trainer-2 {
+    background-image: url("../images/01-05-trainers/trainer-2.jpg");
+}
+
+.trainer-3 {
+    background-image: url("../images/01-05-trainers/trainer-3.jpg");
 }
 
 .trainer-bio {
