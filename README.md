@@ -1,7 +1,9 @@
 # Run Buddy, Inc
 
 ## Purpose
-A website that offers fitness training services. 
+A website for Run Buddy which offers fitness training services. 
+
+Created as part of the University of Penn Full Stack Coding Bootcamp.
 
 ## Built With
 * HTML
@@ -13,4 +15,4 @@ https://tchestnut85.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Tom Chestnut
 
-### ©️2019 Run Buddy, Inc
+### ©️2020 Run Buddy, Inc
