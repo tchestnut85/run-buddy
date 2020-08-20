@@ -314,6 +314,7 @@ section {
 
 .step-text {
     flex:12;
+    text-align: center;
 }
 
 .step-text p {
@@ -448,8 +449,9 @@ section {
 }
 
 .contact-info iframe {
-    height: 400px;
-    width: 50%;
+    height: 100%;
+    width: 100%;
+    padding-left: 5vw;
 }
 
 .contact-info div {
